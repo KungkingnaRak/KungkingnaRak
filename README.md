@@ -1,4 +1,4 @@
-ProfileMe.dev
+<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/ba031688-47c9-4c99-bb4b-bc23b179e025" />ProfileMe.dev
 
 
 Introduction
@@ -36,7 +36,7 @@ Full Stack and AI Traing
 ------------------------
 
 ![](https://komarev.com/ghpvc/?username=Kitchayodom&color=green)
-src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzdm45NjRjeHpvcnRzbDAweDhlbmc4Y2hoZG50bXZwdjBqazI2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif
+src=[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzdm45NjRjeHpvcnRzbDAweDhlbmc4Y2hoZG50bXZwdjBqazI2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzdm45NjRjeHpvcnRzbDAweDhlbmc4Y2hoZG50bXZwdjBqazI2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif)
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kitchayodom.t@ku.th](mailto:kitchayodom.t@ku.th)
 * 🚀  I'm currently working on [AMD](http://www.amd.com/en/support/download/drivers.html)
