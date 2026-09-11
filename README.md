@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack and AI Traing
 ------------------------
 
-(https://komarev.com/ghpvc/?Kitchayodom=your-github-username&color=red)
+(https://komarev.com/ghpvc/?Kitchayodom=your-github-Kitchayodom&color=red)
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kitchayodom.t@ku.th](mailto:kitchayodom.t@ku.th)
 * 🚀  I'm currently working on [AMD](http://www.amd.com/en/support/download/drivers.html)
