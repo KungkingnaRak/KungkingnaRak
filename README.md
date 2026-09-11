@@ -36,7 +36,6 @@ Full Stack and AI Traing
 ------------------------
 
 ![](https://komarev.com/ghpvc/?username=Kitchayodom&color=green)
-src=(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzdm45NjRjeHpvcnRzbDAweDhlbmc4Y2hoZG50bXZwdjBqazI2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif)
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kitchayodom.t@ku.th](mailto:kitchayodom.t@ku.th)
 * 🚀  I'm currently working on [AMD](http://www.amd.com/en/support/download/drivers.html)
